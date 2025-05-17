@@ -3,6 +3,11 @@
 This project explores and analyzes Zomato’s restaurant data using **Excel**, **Power BI**, **MySQL**, and **Tableau**.  
 The goal is to uncover customer preferences, top cuisines, popular restaurant locations, and rating trends.
 
+Built Excel dashboards for executive reporting to enable real time performance tracking for 10 key performance indicators to measure and improve supply chain performance
+Managed relationship between various tables by making connections between them in PowerPivot and did Data cleaning in Power Query.
+Used MySQL to manage and analyze vast dataset. Extracting valuable insights for decision making.
+Developed dynamic dashboards and reports using Tableau and PowerBI.
+
 ---
 
 ## 🔧 Tools Used
